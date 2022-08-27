@@ -23,6 +23,8 @@ Plug 'https://github.com/terryma/vim-multiple-cursors' " CTRL + N for multiple c
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'rking/ag.vim'
 
+Plug 'hashivim/vim-terraform'
+
 set encoding=UTF-8
 
 call plug#end()
